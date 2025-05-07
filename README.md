@@ -1,10 +1,12 @@
-index.html
-# 3maybe4play
-button {
-  background: linear-gradient(to right, red, orange, yellow, green, blue, purple);
-  color: white;
-  padding: 10px;
-  font-size: 20px;
-  border: none;
-  border-radius: 10px;
-}
+secret.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SECRET ROOM! 🔐</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>🤫 Shhh! Members Only! 🤫</h1>
+    <p>You found the secret room! 🎉</p>
+  </body>
+</html>
